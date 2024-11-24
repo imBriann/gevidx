@@ -96,7 +96,7 @@ html {
     /* Centra verticalmente el contenido */
     justify-content: flex-start;
     /* Alinea el texto a la izquierda */
-    background-image: url('gevidx/img/img-inicio.jpg');
+    background-image: url('img/img-inicio.jpg');
     /* Imagen de fondo */
     background-size: cover;
     /* Ajusta la imagen para cubrir el área */
