@@ -12,8 +12,6 @@ html {
     scroll-behavior: smooth;
 }
 
-@import url('https://fonts.cdnfonts.com/css/avenir');
-
 /*----------------BARRA DE NAVEGACÏON---------------*/
 
 /* Mantener el estilo existente */
@@ -48,7 +46,7 @@ html {
 
 /* Estilo de los enlaces */
 .nav-links a {
-    font-family: 'Avenir', sans-serif;
+    font-family: "Montserrat", serif;
     color: #fff;
     /* Texto blanco */
     text-decoration: none;
@@ -271,7 +269,7 @@ html {
     font-size: 1rem;
     color: rgba(255, 255, 255, 0.941);
     line-height: 1.7;
-    font-family: 'Avenir', sans-serif;
+    font-family: "Montserrat", serif;
 }
 
 /* From Uiverse.io by alexreyes091 */ 
@@ -381,7 +379,7 @@ html {
 .bg p {
     font-size: 1.1rem;
     line-height: 1.7;
-    font-family: 'Avenir', sans-serif;
+    font-family: "Montserrat", serif;
     margin-top: -30px;
     margin-right: 25px;
     text-align: justify;
@@ -601,7 +599,7 @@ footer{
     font-size: 1.5rem;
     margin-left: 7rem;
     padding-right: 8rem;
-    font-family: 'Avenir', sans-serif;
+    font-family: "Montserrat", serif;
 }
 
 .tituloP{
@@ -646,7 +644,7 @@ footer{
     font-size: 1rem;
     text-align: left;
     margin-top: 20px;
-    font-family: 'Avenir', sans-serif;
+    font-family: "Montserrat", serif;
 }
 
 .subtitle {
